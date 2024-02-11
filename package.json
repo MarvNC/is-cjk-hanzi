@@ -4,7 +4,10 @@
   "description": "Whether a character is a (single) cjk hanzi",
   "main": "dist/index.js",
   "scripts": {
-    "test": "ava"
+    "test": "ava",
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "pretest": "npm run build"
   },
   "repository": {
     "type": "git",
