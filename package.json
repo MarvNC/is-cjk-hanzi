@@ -1,0 +1,32 @@
+{
+  "name": "is-single-cjk-hanzi",
+  "version": "1.0.0",
+  "description": "Whether a character is a single cjk hanzi",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarvNC/is-single-cjk-hanzi.git"
+  },
+  "keywords": [
+    "japanese",
+    "chinese",
+    "hanzi",
+    "kanji",
+    "text-utils"
+  ],
+  "author": "MarvNC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarvNC/is-single-cjk-hanzi/issues"
+  },
+  "homepage": "https://github.com/MarvNC/is-single-cjk-hanzi#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "eslint": "^8.56.0",
+    "typescript": "^5.3.3"
+  }
+}
