@@ -1,5 +1,7 @@
 # is-cjk-hanzi
 
+[![npm](https://img.shields.io/npm/v/is-cjk-hanzi?style=for-the-badge)](https://www.npmjs.com/package/is-cjk-hanzi)
+
 A handy utility to determine if a character or string contains CJK (Chinese,
 Japanese, Korean) Hanzi/Kanji characters.
 
